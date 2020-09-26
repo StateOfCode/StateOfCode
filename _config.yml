@@ -1,3 +1,17 @@
 # _config.yml
 
-title: "Jekyll Actions Demo"
+defaults:
+  -  
+    scope:
+      path: "" # path is mandatory, at least, an empty string.
+      type: "posts" # can be "pages", "posts", "drafts" and any collection created.
+    values:
+      layout: "default"
+      title: "StateOfCode/"
+  -
+    scope:
+      path: "projects" #this sample scope will be used by all html files in the folder "projects".
+      type: "pages" #previously 'page' in Jekyll 2.2.
+    values:
+      layout: "project"
+      author: "Dima Buchka"
