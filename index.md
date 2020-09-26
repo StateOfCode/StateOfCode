@@ -1,4 +1,6 @@
 ---
+layout: default
+title: StateOfCode/ | Main
 ---
 
 Welcome to StateOfCode/
