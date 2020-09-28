@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: StateOfCode
 permalink: /about/
 ---
-# StateOfC#de/
+# StateOfCode
 
 ## Theme Monos
 > Simple and lightweight theme for Jekyll
