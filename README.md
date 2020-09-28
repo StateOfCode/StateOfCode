@@ -1,9 +1,10 @@
 ---
 layout: page
-title: StateOfCode
+title: About
 permalink: /about/
 ---
-# StateOfCode
+[StateOfCode](/about/) is my professional blog where I finally get to put the ladder back after myself and show what took me a long time to find myself. I post about Selenium, other C# libraries, how they work in the era of virtualization and remote work. I also will share methodologies and documentation structures that work for me if used propertly.
+
 
 ## Theme Monos
 > Simple and lightweight theme for Jekyll
