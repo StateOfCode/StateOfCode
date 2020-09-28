@@ -3,33 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-[StateOfCode](/about/) is my professional blog where I finally get to put the ladder back after myself and show what took me a long time to find myself. I post about Selenium, other C# libraries, how they work in the era of virtualization and remote work. I also will share methodologies and documentation structures that work for me if used propertly.
+[StateOfCode](/about/) is my professional blog where I finally get to put down my thoughts on technology and share what is my passion - who to make stuff work. I post about Selenium, other C# libraries, how they are used in the era of virtualization and remote work. I also will share methodologies and documentation structures that I have an experience with seeing work in a professional setting along with obstacles that were discovered and unseen at the time.
 
+[insert graphic]
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
-
-### Features
-- Responsive.
-- Syntax Highlight
-- Most optimized theme for tech blog.
-- Lightweight with minimum stylesheet.
-- Easy to customize.
-- Offers category menu.
-
-### _config.yml
-> Code block will look like this.
-```yml
-highlighter-theme: monokai //you can change your syntax color scheme.
-date_format: "%Y-%M-%D" //and date format.
-```
-
-### Screenshots
-#### Page
-![alt text](/public/img/screenshot-1.png)
-#### Articles
-![alt text](/public/img/screenshot-2.png)
-#### Page - Mobile
-![alt text](/public/img/screenshot-m1.png)
-#### Page - Articles
-![alt text](/public/img/screenshot-m2.png)
+[stopped here]
